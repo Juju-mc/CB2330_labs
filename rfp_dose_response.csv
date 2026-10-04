@@ -1,0 +1,20 @@
+source,panel,dose_ng,rfp_positive_fraction,replicate,time_h,measurement_type
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,0,0.000,r1,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,0,0.000,r2,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,0,0.000,r3,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,0,0.000,r4,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,10,0.038,r1,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,10,0.000,r2,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,10,0.022,r3,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,10,0.040,r4,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,100,0.143,r1,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,100,0.113,r2,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,100,0.118,r3,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,100,0.167,r4,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,1000,0.879,r1,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,1000,0.938,r2,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,1000,0.807,r3,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig 1G",Fig 1G,1000,0.874,r4,72,digitized per-well
+"Sago et al. 2018, PNAS; Fig S1g",Fig S1g,16,0.206,,72,digitized panel summary
+"Sago et al. 2018, PNAS; Fig S1g",Fig S1g,50,0.435,,72,digitized panel summary
+"Sago et al. 2018, PNAS; Fig S1g",Fig S1g,150,0.667,,72,digitized panel summary
